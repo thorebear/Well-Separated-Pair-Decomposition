@@ -1,2 +1,10 @@
-# Well-Separated-Pair-Decomposition
-Implementation of algorithms for computing a Well Separated Pair Decomposition in Java 
+# Well Separated Pair Decomposition
+Description
+
+Building
+--------
+How to build
+
+Run samples
+-----------
+How to use
