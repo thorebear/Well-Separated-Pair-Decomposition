@@ -27,9 +27,11 @@ Will compute a WSPD using the slow split tree algorithm, for a set of random poi
 ```
 java -classpath ".\out;.\lib\ProGAL.jar" ndsamples.slowsplittree <number of points> <number of dimensions> <separation factor>
 ```
+assuming you are in the root of the repository.
 
 __samples/_2dsamples/wspd_draw_2d.java:__
 Will compute a WSPD for a random points in 2D and illustrate it using ProGAL. After building the application, this sample can be executed by:
 ```
 java -classpath ".\out;.\lib\ProGAL.jar" _2dsamples.wspd_draw_2d <number of points> <separation factor>
 ```
+assuming you are in the root of the repository.
