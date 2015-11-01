@@ -4,16 +4,17 @@ The applications use the Java library ProGAL (http://www.diku.dk/~rfonseca/ProGA
 
 Building
 --------
-Requires Java and Apache Ant. To build the application, clone the repository and run:
+Requires Java. To build the application, clone the repository and run:
 ```
-ant all
+mkdir out
+javac -d out -cp ./lib/ProGAL.jar @source.txt 
 ```
 in the root of the repository. This will create an 'out'-folder, which contains the compiled files. 
 
 
 Run samples
 -----------
-The repositry have 3 sample files included, which shows have to use the application.
+The repositry have 3 sample files included, which shows have to use the algorithms.
 
 __samples/ndsamples/fastsplittree.java:__
 Will compute a WSPD using the fast split tree algorithm, for a set of random points. After building the application, this sample can be executed by:

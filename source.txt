@@ -1,0 +1,15 @@
+./src/WSPD/dataStructures/SortToolPointInDimension.java
+
+./src/WSPD/geomNd/BoundingBox.java
+./src/WSPD/geomNd/wspd/SplitTree.java
+./src/WSPD/geomNd/wspd/SplitTreeNode.java
+./src/WSPD/geomNd/wspd/WellSeparatedPairDecomposition.java
+
+./src/WSPD/geom2d/BoundingBox.java
+./src/WSPD/geom2d/wspd/SplitTree.java
+./src/WSPD/geom2d/wspd/SplitTreeNode.java
+./src/WSPD/geom2d/wspd/WellSeparatedPairDecomposition.java
+
+./samples/_2dsamples/wspd_draw_2d.java
+./samples/ndsamples/fastsplittree.java
+./samples/ndsamples/slowsplittree.java
