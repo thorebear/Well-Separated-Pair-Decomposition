@@ -4,7 +4,7 @@ The applications use the Java library ProGAL (http://www.diku.dk/~rfonseca/ProGA
 
 Building
 --------
-Requires Java. To build the application, clone the repository and run:
+Requires Java 1.8. To build the application, clone the repository and run:
 ```
 mkdir out
 javac -d out -cp ./lib/ProGAL.jar @source.txt 
